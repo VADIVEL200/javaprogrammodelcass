@@ -10,7 +10,7 @@ class hello{
         double a=score/10;
         System.out.println("my name is"+name);
         System.out.println("my department is"+department);
-        System.out.print("my score is"+a);
+        System.out.print("my scoreis"+a);
         
     }
 }
