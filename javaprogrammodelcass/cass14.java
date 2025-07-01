@@ -20,7 +20,7 @@ class hello{
         }
         else
         {
-          System.out.print("unknown color");  
+          System.out.print("unknowncolor");  
         }
     }
 }
